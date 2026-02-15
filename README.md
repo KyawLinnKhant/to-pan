@@ -6,15 +6,14 @@
 
 ### ✨ What's New
 - **Default User**: Opens as Pan (no password needed)
-- **Password Protected**: Kyaw account locked with password `klk`
+- **Password Protected**: Kyaw account locked with password 
 - **AI Insights**: Get emotional insights from your moods and journal entries  
 - **Reversed Journal**: Type normally, text appears backwards (fun feature!)
-- **Separate Tracking**: Independent mood streaks for Kyaw (💙) and Pan (💖)
+- **Separate Tracking**: Independent mood streaks for users.
 
 ### 🔒 User Access
 - **Pan**: Default user, no password required
 - **Kyaw**: Password protected (🔒)
-  - Password: `klk`
   - Click "Kyaw 🔒" → Enter password → Unlock
 
 ### 🗓️ Mood Calendar
